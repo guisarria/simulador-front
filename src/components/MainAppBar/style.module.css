@@ -1,0 +1,12 @@
+.mainAppBar {
+    justify-content: space-around;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: saturate(180%) blur(15px);
+}

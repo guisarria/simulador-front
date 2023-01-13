@@ -1,0 +1,32 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #eaeaea;
+  align-content: center;
+  background-color: #BBBEC2;
+  
+}
+
+.logoFooter {
+  align-self: center;
+  width: 80%;
+  height: auto;
+  margin: 0.7rem;
+  margin-left: 2rem;
+}
+
+.logoLinkedin {
+  width: 20%;
+  height: auto;
+  margin: 0.5rem;
+  margin-top: 1.2rem;
+  margin-right: 1rem;
+}
+
+.logoInstagram {
+  width: 20%;
+  margin: 0.5rem;
+  margin-top: 1.2rem;
+
+  margin-right: -2rem;
+}

@@ -1,0 +1,14 @@
+.graph {
+  display: flex;
+  width: 200%;
+  height: auto;
+  margin-left: 200%;
+  margin-top: -150%;
+  margin-bottom: -13%;
+}
+
+.asset {
+  width: 80%;
+  height: auto;
+  margin-left: 10rem;
+}

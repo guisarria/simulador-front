@@ -1,0 +1,17 @@
+.logoContainer {
+    margin-left: 0rem;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+
+.logo {
+    width: 150%;
+}
+
+@media (max-width: 600px) {
+    .logo {
+        margin: 0 12px;
+    }
+}

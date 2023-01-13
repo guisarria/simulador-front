@@ -1,0 +1,21 @@
+.famousBox {
+    padding: 1rem;
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    border-radius: 16px;
+}
+
+.famousBox p{
+    font-size: 23px;
+    color: #A9A9A9;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.famousLogo {
+    width: 100%;
+    max-width: 80px;
+    border-radius: 12px;
+    margin-top: -1rem;
+}

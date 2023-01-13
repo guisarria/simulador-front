@@ -1,0 +1,9 @@
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(187, 190, 194);
+}
+
+.pageTitle {
+    margin: 0;
+}
